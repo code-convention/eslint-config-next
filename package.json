@@ -1,6 +1,6 @@
 {
   "name": "@code-convention/eslint-config-nextjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": ".eslintrc.js",
   "description": "zcvfcat-eslint-config-nextjs",
   "homepage": "https://github.com/code-convention/eslint-config-nextjs",
