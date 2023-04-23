@@ -1,7 +1,24 @@
 {
   "name": "@code-convention/eslint-config-nextjs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": ".eslintrc.js",
+  "description": "zcvfcat-eslint-config-nextjs",
+  "homepage": "https://github.com/code-convention/eslint-config-nextjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code-convention/eslint-config-nextjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/code-convention/eslint-config-nextjs/issues",
+    "email": "zcvfcat@gmail.com"
+  },
+  "license": "MIT",
+  "author": "zcvfcat zcvfcat@gmail.com (https://zcvfcat.github.io)",
+  "keywords": [
+    "eslint-config-nextjs",
+    "code-convention",
+    "zcvfcat"
+  ],
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.58.0",
     "@typescript-eslint/parser": "^5.58.0",
